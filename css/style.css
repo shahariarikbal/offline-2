@@ -1,0 +1,23 @@
+
+/* .custom-slider{
+    height: 300px;
+} */
+
+.custom-menu{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.product-list-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.custom-product-title{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
